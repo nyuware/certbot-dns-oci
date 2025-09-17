@@ -4,8 +4,8 @@ from setuptools import find_packages
 version = "0.1.1"
 
 install_requires = [
-    "acme>=1.31.0",
-    "certbot>=1.31.0",
+    "acme",
+    "certbot",
     "setuptools",
     "mock",
     "oci"
